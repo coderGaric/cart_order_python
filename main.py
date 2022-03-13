@@ -1,5 +1,4 @@
-from shop.cart import Cart
-from shop.order import Order
+from shop import Cart, Order
 
 
 # ------ CUSTOMER ------ 
